@@ -35,7 +35,7 @@ Objetivo: Crear una aplicación que muestre un curso para que oriente al usuario
 ![Quiz 5](Pantallas_draw/Quiz_5.png)
 
 ## Sección 2
-![Sección 2](Pantallas draw/Sección_2.png)
+![Sección 2](Pantallas_draw/Sección_2.png)
 
 
 
